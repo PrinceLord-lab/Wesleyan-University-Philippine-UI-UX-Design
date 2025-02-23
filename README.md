@@ -7,15 +7,12 @@ This project is a **modern redesign** of the Wesleyan University-Philippines stu
 
 ## 🎨 UI/UX Features  
 ✔ **User-Friendly Navigation** – Simplified menu structure for easy access to essential services  
-✔ **Responsive Design** – Optimized for **desktop, tablet, and mobile** devices  
 ✔ **Modern Aesthetics** – Clean, professional design using **consistent color schemes and typography**  
-✔ **Dark Mode Support** – Enhancing readability and accessibility  
 ✔ **Student Dashboard** – Quick access to grades, schedules, announcements, and account information  
 ✔ **Improved Load Times** – Optimized UI components for better performance  
 
 ## 🔧 Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
-- **UI/UX Design:** Figma (Wireframing & Prototyping)  
-- **Version Control:** Git & GitHub  
-
+- **UI Design:** Figma (Wireframing & Prototyping)  
+- **Typography & Color Theory:** Accessibility-compliant fonts and WCAG-approved color contrast  
+- **User Testing:** Conducted usability tests to refine user interactions 
 
